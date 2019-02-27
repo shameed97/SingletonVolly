@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SingletonVolly</string>
+    <string name="get">Get</string>
+    <string name="server_message_will_appear_here">ServerResponse</string>
+</resources>
